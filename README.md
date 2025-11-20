@@ -12,4 +12,4 @@ poetry run project
 
 Демонстрация игры
 
-[![asciicast](https://asciinema.org/a/Lv50qoltWq5mYl4LrnvEsWQnZ.svg)](https://asciinema.org/a/Lv50qoltWq5mYl4LrnvEsWQnZ)
+[![asciicast](https://asciinema.org/a/Lv50qo1tWq5mYl4LrnvEsWQnZ.svg)](https://asciinema.org/a/Lv50qo1tWq5mYl4LrnvEsWQnZ)
